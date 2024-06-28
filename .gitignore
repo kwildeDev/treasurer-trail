@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# IDE/Editor files
+.vscode/
+.idea
+*.pyc
+*.pyo
+*.pyd
+
+# Django generated files
+db.sqlite3
+staticfiles/
+media/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+logs/
+temp/
